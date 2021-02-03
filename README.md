@@ -1,2 +1,2 @@
-# Loan-calculater
+# Loan-calculator
 Calculator in vanilla javascript
